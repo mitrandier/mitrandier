@@ -18,7 +18,6 @@ Hi, I'm **Mehdi**, a 28-year-old IT graduate passionate about **Backend Developm
 * Bachelor’s degree in **Information Technology (IT)**
 * Computer Networks courses
 * Frontend development (basic level)
-* Backend development with **Python** (basic level)
 
 🎯 **Current goal:**
 To strengthen my backend coding skills and expand my knowledge in **Artificial Intelligence and workflow automation**, while actively seeking an **internship or an Ausbildung** in **Software Development, IT, or Programming** in **Germany**, in order to gain practical, real-world experience.
