@@ -1,6 +1,32 @@
-# 💫 About Me:
-Hi, I'm Mehdi, a 28-year-old IT graduate passionate about Backend Development, Automation, and Artificial Intelligence.<br><br>🔭 What I’m currently working on:<br><br>Designing automation tools using n8n<br>Gaining hands-on experience with AI applications and workflows<br>🌱 What I’m learning:<br><br>Backend development (Python – beginner level)<br>AI-related tools and workflow automation<br>Improving coding skills for real-world use cases<br>🎓 Education & Training:<br><br>Bachelor’s degree in Information Technology (IT)<br>Computer Networks courses<br>Frontend development (basic level)<br>🎯 Current goal: To strengthen my backend coding skills and expand my knowledge in Artificial Intelligence and workflow automation, while actively seeking an internship or an Ausbildung in Software Development, IT, or Programming in Germany, in order to gain practical, real-world experience.
+## Hi there 👋
 
+Hi, I'm Mehdi, a 28-year-old IT graduate passionate about Backend Development, Automation, and Artificial Intelligence.
+
+🔭 What I’m currently working on:
+
+* Designing automation tools using n8n
+* Gaining hands-on experience with AI applications and workflows
+
+🌱 What I’m learning:
+
+* Backend development (Python – beginner level)
+* AI-related tools and workflow automation
+* Improving coding skills for real-world use cases
+
+🎓 Education & Training:
+
+* Bachelor’s degree in Information Technology (IT)
+* Computer Networks courses
+* Frontend development (basic level)
+
+🎯 Current goal:
+To strengthen my backend coding skills and expand my knowledge in Artificial Intelligence and workflow automation, while actively seeking an internship or an Ausbildung in Software Development, IT, or Programming in Germany, in order to gain practical, real-world experience.
+
+
+📫 How to reach me:
+
+* 📧 Email: [mehdipk89@gmail.com](mailto:mehdipk89@gmail.com)
+* 💬 Telegram: [https://t.me/Mitimm](https://t.me/Mitimm)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mehdi.poroki) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdi-miri) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mehdiporoki) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mehdiporoki) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/gandolf-gray) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mehdifasele7964) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehdipk89@gmail.com) 
