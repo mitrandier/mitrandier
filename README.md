@@ -20,7 +20,7 @@ Hi, I'm Mehdi, a 28-year-old IT graduate passionate about Backend Development, A
 * Frontend development (basic level)
 
 🎯 Current goal:
-To strengthen my backend coding skills and expand my knowledge in Artificial Intelligence and workflow automation, while actively seeking an internship or an Ausbildung in Software Development, IT, or Programming in Germany, in order to gain practical, real-world experience.
+To strengthen my backend coding skills and expand my knowledge in Artificial Intelligence and workflow automation, while actively seeking an internship or an Ausbildung in Software Development, IT or Programming in Germany, in order to gain practical, real-world experience.
 
 
 📫 How to reach me:
